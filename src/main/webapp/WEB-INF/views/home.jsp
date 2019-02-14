@@ -17,11 +17,11 @@
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-<div class="container">
-
-    <h2>Hello ${name}!</h2>
-    <p>wtf ${test}</p>
-
+<div class="container mt-3">
+    <h2>Home, ${welcom}</h2>
+    <div class="jumbotron">
+        <p>Jol</p>
+    </div>
 </div>
 <!-- /container -->
 <script
